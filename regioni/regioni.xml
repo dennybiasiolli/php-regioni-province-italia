@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<regioni>
+		<regione>Abruzzo</regione>
+		<regione>Basilicata</regione>
+		<regione>Calabria</regione>
+		<regione>Campania</regione>
+		<regione>Emilia Romagna</regione>
+		<regione>Friuli Venezia Giulia</regione>
+		<regione>Lazio</regione>
+		<regione>Liguria</regione>
+		<regione>Lombardia</regione>
+		<regione>Marche</regione>
+		<regione>Molise</regione>
+		<regione>Piemonte</regione>
+		<regione>Puglia</regione>
+		<regione>Sardegna</regione>
+		<regione>Sicilia</regione>
+		<regione>Toscana</regione>
+		<regione>Trentino Alto Adige</regione>
+		<regione>Umbria</regione>
+		<regione>Valle d'Aosta</regione>
+		<regione>Veneto</regione>
+	</regioni>

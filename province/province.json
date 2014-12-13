@@ -1,0 +1,448 @@
+{
+  "province": [
+    {
+      "provincia": [
+        {
+          "nome": "Agrigento",
+          "Sigla": "AG"
+        },
+        {
+          "nome": "Alessandria",
+          "Sigla": "AL"
+        },
+        {
+          "nome": "Ancona",
+          "Sigla": "AN"
+        },
+        {
+          "nome": "Aosta",
+          "Sigla": "AO"
+        },
+        {
+          "nome": "Arezzo",
+          "Sigla": "AR"
+        },
+        {
+          "nome": "Ascoli Piceno",
+          "Sigla": "AP"
+        },
+        {
+          "nome": "Asti",
+          "Sigla": "AT"
+        },
+        {
+          "nome": "Avellino",
+          "Sigla": "AV"
+        },
+        {
+          "nome": "Bari",
+          "Sigla": "BA"
+        },
+        {
+          "nome": "Barletta-Andria-Trani",
+          "Sigla": "BT"
+        },
+        {
+          "nome": "Belluno",
+          "Sigla": "BL"
+        },
+        {
+          "nome": "Benevento",
+          "Sigla": "BN"
+        },
+        {
+          "nome": "Bergamo",
+          "Sigla": "BG"
+        },
+        {
+          "nome": "Biella",
+          "Sigla": "BI"
+        },
+        {
+          "nome": "Bologna",
+          "Sigla": "BO"
+        },
+        {
+          "nome": "Bolzano",
+          "Sigla": "BZ"
+        },
+        {
+          "nome": "Brescia",
+          "Sigla": "BS"
+        },
+        {
+          "nome": "Brindisi",
+          "Sigla": "BR"
+        },
+        {
+          "nome": "Cagliari",
+          "Sigla": "CA"
+        },
+        {
+          "nome": "Caltanissetta",
+          "Sigla": "CL"
+        },
+        {
+          "nome": "Campobasso",
+          "Sigla": "CB"
+        },
+        {
+          "nome": "Carbonia-Iglesias",
+          "Sigla": "CI"
+        },
+        {
+          "nome": "Caserta",
+          "Sigla": "CE"
+        },
+        {
+          "nome": "Catania",
+          "Sigla": "CT"
+        },
+        {
+          "nome": "Catanzaro",
+          "Sigla": "CZ"
+        },
+        {
+          "nome": "Chieti",
+          "Sigla": "CH"
+        },
+        {
+          "nome": "Como",
+          "Sigla": "CO"
+        },
+        {
+          "nome": "Cosenza",
+          "Sigla": "CS"
+        },
+        {
+          "nome": "Cremona",
+          "Sigla": "CR"
+        },
+        {
+          "nome": "Crotone",
+          "Sigla": "KR"
+        },
+        {
+          "nome": "Cuneo",
+          "Sigla": "CN"
+        },
+        {
+          "nome": "Enna",
+          "Sigla": "EN"
+        },
+        {
+          "nome": "Fermo",
+          "Sigla": "FM"
+        },
+        {
+          "nome": "Ferrara",
+          "Sigla": "FE"
+        },
+        {
+          "nome": "Firenze",
+          "Sigla": "FI"
+        },
+        {
+          "nome": "Foggia",
+          "Sigla": "FG"
+        },
+        {
+          "nome": "Forl\u00ec-Cesena",
+          "Sigla": "FC"
+        },
+        {
+          "nome": "Frosinone",
+          "Sigla": "FR"
+        },
+        {
+          "nome": "Genova",
+          "Sigla": "GE"
+        },
+        {
+          "nome": "Gorizia",
+          "Sigla": "GO"
+        },
+        {
+          "nome": "Grosseto",
+          "Sigla": "GR"
+        },
+        {
+          "nome": "Imperia",
+          "Sigla": "IM"
+        },
+        {
+          "nome": "Isernia",
+          "Sigla": "IS"
+        },
+        {
+          "nome": "L'Aquila",
+          "Sigla": "AQ"
+        },
+        {
+          "nome": "La Spezia",
+          "Sigla": "SP"
+        },
+        {
+          "nome": "Latina",
+          "Sigla": "LT"
+        },
+        {
+          "nome": "Lecce",
+          "Sigla": "LE"
+        },
+        {
+          "nome": "Lecco",
+          "Sigla": "LC"
+        },
+        {
+          "nome": "Livorno",
+          "Sigla": "LI"
+        },
+        {
+          "nome": "Lodi",
+          "Sigla": "LO"
+        },
+        {
+          "nome": "Lucca",
+          "Sigla": "LU"
+        },
+        {
+          "nome": "Macerata",
+          "Sigla": "MC"
+        },
+        {
+          "nome": "Mantova",
+          "Sigla": "MN"
+        },
+        {
+          "nome": "Massa-Carrara",
+          "Sigla": "MS"
+        },
+        {
+          "nome": "Matera",
+          "Sigla": "MT"
+        },
+        {
+          "nome": "Medio Campidano",
+          "Sigla": "VS"
+        },
+        {
+          "nome": "Messina",
+          "Sigla": "ME"
+        },
+        {
+          "nome": "Milano",
+          "Sigla": "MI"
+        },
+        {
+          "nome": "Modena",
+          "Sigla": "MO"
+        },
+        {
+          "nome": "Monza e della Brianza",
+          "Sigla": "MB"
+        },
+        {
+          "nome": "Napoli",
+          "Sigla": "NA"
+        },
+        {
+          "nome": "Novara",
+          "Sigla": "NO"
+        },
+        {
+          "nome": "Nuoro",
+          "Sigla": "NU"
+        },
+        {
+          "nome": "Ogliastra",
+          "Sigla": "OG"
+        },
+        {
+          "nome": "Olbia-Tempio",
+          "Sigla": "OT"
+        },
+        {
+          "nome": "Oristano",
+          "Sigla": "OR"
+        },
+        {
+          "nome": "Padova",
+          "Sigla": "PD"
+        },
+        {
+          "nome": "Palermo",
+          "Sigla": "PA"
+        },
+        {
+          "nome": "Parma",
+          "Sigla": "PR"
+        },
+        {
+          "nome": "Pavia",
+          "Sigla": "PV"
+        },
+        {
+          "nome": "Perugia",
+          "Sigla": "PG"
+        },
+        {
+          "nome": "Pesaro e Urbino",
+          "Sigla": "PS"
+        },
+        {
+          "nome": "Pescara",
+          "Sigla": "PE"
+        },
+        {
+          "nome": "Piacenza",
+          "Sigla": "PC"
+        },
+        {
+          "nome": "Pisa",
+          "Sigla": "PI"
+        },
+        {
+          "nome": "Pistoia",
+          "Sigla": "PT"
+        },
+        {
+          "nome": "Pordenone",
+          "Sigla": "PN"
+        },
+        {
+          "nome": "Potenza",
+          "Sigla": "PZ"
+        },
+        {
+          "nome": "Prato",
+          "Sigla": "PO"
+        },
+        {
+          "nome": "Ragusa",
+          "Sigla": "RG"
+        },
+        {
+          "nome": "Ravenna",
+          "Sigla": "RA"
+        },
+        {
+          "nome": "Reggio Calabria",
+          "Sigla": "RC"
+        },
+        {
+          "nome": "Reggio Emilia",
+          "Sigla": "RE"
+        },
+        {
+          "nome": "Rieti",
+          "Sigla": "RI"
+        },
+        {
+          "nome": "Rimini",
+          "Sigla": "RN"
+        },
+        {
+          "nome": "Roma",
+          "Sigla": "RM"
+        },
+        {
+          "nome": "Rovigo",
+          "Sigla": "RO"
+        },
+        {
+          "nome": "Salerno",
+          "Sigla": "SA"
+        },
+        {
+          "nome": "Sassari",
+          "Sigla": "SS"
+        },
+        {
+          "nome": "Savona",
+          "Sigla": "SV"
+        },
+        {
+          "nome": "Siena",
+          "Sigla": "SI"
+        },
+        {
+          "nome": "Siracusa",
+          "Sigla": "SR"
+        },
+        {
+          "nome": "Sondrio",
+          "Sigla": "SO"
+        },
+        {
+          "nome": "Taranto",
+          "Sigla": "TA"
+        },
+        {
+          "nome": "Teramo",
+          "Sigla": "TE"
+        },
+        {
+          "nome": "Terni",
+          "Sigla": "TR"
+        },
+        {
+          "nome": "Torino",
+          "Sigla": "TO"
+        },
+        {
+          "nome": "Trapani",
+          "Sigla": "TP"
+        },
+        {
+          "nome": "Trento",
+          "Sigla": "TN"
+        },
+        {
+          "nome": "Treviso",
+          "Sigla": "TV"
+        },
+        {
+          "nome": "Trieste",
+          "Sigla": "TS"
+        },
+        {
+          "nome": "Udine",
+          "Sigla": "UD"
+        },
+        {
+          "nome": "Varese",
+          "Sigla": "VA"
+        },
+        {
+          "nome": "Venezia",
+          "Sigla": "VE"
+        },
+        {
+          "nome": "Verbano-Cusio-Ossola",
+          "Sigla": "VB"
+        },
+        {
+          "nome": "Vercelli",
+          "Sigla": "VC"
+        },
+        {
+          "nome": "Verona",
+          "Sigla": "VR"
+        },
+        {
+          "nome": "Vibo Valentia",
+          "Sigla": "VV"
+        },
+        {
+          "nome": "Vicenza",
+          "Sigla": "VI"
+        },
+        {
+          "nome": "Viterbo",
+          "Sigle": "VT"
+        }
+      ]
+    }
+  ]
+}
