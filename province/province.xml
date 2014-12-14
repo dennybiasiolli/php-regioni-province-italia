@@ -2,439 +2,439 @@
 	<province>
 		<provincia>
 			<nome>Agrigento</nome>
-			<Sigla>AG</Sigla>
+			<sigla>AG</sigla>
 		</provincia>
 		<provincia>
 			<nome>Alessandria</nome>
-			<Sigla>AL</Sigla>
+			<sigla>AL</sigla>
 		</provincia>
 		<provincia>
 			<nome>Ancona</nome>
-			<Sigla>AN</Sigla>
+			<sigla>AN</sigla>
 		</provincia>
 		<provincia>
 			<nome>Aosta</nome>
-			<Sigla>AO</Sigla>
+			<sigla>AO</sigla>
 		</provincia>
 		<provincia>
 			<nome>Arezzo</nome>
-			<Sigla>AR</Sigla>
+			<sigla>AR</sigla>
 		</provincia>
 		<provincia>
 			<nome>Ascoli Piceno</nome>
-			<Sigla>AP</Sigla>
+			<sigla>AP</sigla>
 		</provincia>
 		<provincia>
 			<nome>Asti</nome>
-			<Sigla>AT</Sigla>
+			<sigla>AT</sigla>
 		</provincia>
 		<provincia>
 			<nome>Avellino</nome>
-			<Sigla>AV</Sigla>
+			<sigla>AV</sigla>
 		</provincia>
 		<provincia>
 			<nome>Bari</nome>
-			<Sigla>BA</Sigla>
+			<sigla>BA</sigla>
 		</provincia>
 		<provincia>
 			<nome>Barletta-Andria-Trani</nome>
-			<Sigla>BT</Sigla>
+			<sigla>BT</sigla>
 		</provincia>
 		<provincia>
 			<nome>Belluno</nome>
-			<Sigla>BL</Sigla>
+			<sigla>BL</sigla>
 		</provincia>
 		<provincia>
 			<nome>Benevento</nome>
-			<Sigla>BN</Sigla>
+			<sigla>BN</sigla>
 		</provincia>
 		<provincia>
 			<nome>Bergamo</nome>
-			<Sigla>BG</Sigla>
+			<sigla>BG</sigla>
 		</provincia>
 		<provincia>
 			<nome>Biella</nome>
-			<Sigla>BI</Sigla>
+			<sigla>BI</sigla>
 		</provincia>
 		<provincia>
 			<nome>Bologna</nome>
-			<Sigla>BO</Sigla>
+			<sigla>BO</sigla>
 		</provincia>
 		<provincia>
 			<nome>Bolzano</nome>
-			<Sigla>BZ</Sigla>
+			<sigla>BZ</sigla>
 		</provincia>
 		<provincia>
 			<nome>Brescia</nome>
-			<Sigla>BS</Sigla>
+			<sigla>BS</sigla>
 		</provincia>
 		<provincia>
 			<nome>Brindisi</nome>
-			<Sigla>BR</Sigla>
+			<sigla>BR</sigla>
 		</provincia>
 		<provincia>
 			<nome>Cagliari</nome>
-			<Sigla>CA</Sigla>
+			<sigla>CA</sigla>
 		</provincia>
 		<provincia>
 			<nome>Caltanissetta</nome>
-			<Sigla>CL</Sigla>
+			<sigla>CL</sigla>
 		</provincia>
 		<provincia>
 			<nome>Campobasso</nome>
-			<Sigla>CB</Sigla>
+			<sigla>CB</sigla>
 		</provincia>
 		<provincia>
 			<nome>Carbonia-Iglesias</nome>
-			<Sigla>CI</Sigla>
+			<sigla>CI</sigla>
 		</provincia>
 		<provincia>
 			<nome>Caserta</nome>
-			<Sigla>CE</Sigla>
+			<sigla>CE</sigla>
 		</provincia>
 		<provincia>
 			<nome>Catania</nome>
-			<Sigla>CT</Sigla>
+			<sigla>CT</sigla>
 		</provincia>
 		<provincia>
 			<nome>Catanzaro</nome>
-			<Sigla>CZ</Sigla>
+			<sigla>CZ</sigla>
 		</provincia>
 		<provincia>
 			<nome>Chieti</nome>
-			<Sigla>CH</Sigla>
+			<sigla>CH</sigla>
 		</provincia>
 		<provincia>
 			<nome>Como</nome>
-			<Sigla>CO</Sigla>
+			<sigla>CO</sigla>
 		</provincia>
 		<provincia>
 			<nome>Cosenza</nome>
-			<Sigla>CS</Sigla>
+			<sigla>CS</sigla>
 		</provincia>
 		<provincia>
 			<nome>Cremona</nome>
-			<Sigla>CR</Sigla>
+			<sigla>CR</sigla>
 		</provincia>
 		<provincia>
 			<nome>Crotone</nome>
-			<Sigla>KR</Sigla>
+			<sigla>KR</sigla>
 		</provincia>
 		<provincia>
 			<nome>Cuneo</nome>
-			<Sigla>CN</Sigla>
+			<sigla>CN</sigla>
 		</provincia>
 		<provincia>
 			<nome>Enna</nome>
-			<Sigla>EN</Sigla>
+			<sigla>EN</sigla>
 		</provincia>
 		<provincia>
 			<nome>Fermo</nome>
-			<Sigla>FM</Sigla>
+			<sigla>FM</sigla>
 		</provincia>
 		<provincia>
 			<nome>Ferrara</nome>
-			<Sigla>FE</Sigla>
+			<sigla>FE</sigla>
 		</provincia>
 		<provincia>
 			<nome>Firenze</nome>
-			<Sigla>FI</Sigla>
+			<sigla>FI</sigla>
 		</provincia>
 		<provincia>
 			<nome>Foggia</nome>
-			<Sigla>FG</Sigla>
+			<sigla>FG</sigla>
 		</provincia>
 		<provincia>
 			<nome>Forlì-Cesena</nome>
-			<Sigla>FC</Sigla>
+			<sigla>FC</sigla>
 		</provincia>
 		<provincia>
 			<nome>Frosinone</nome>
-			<Sigla>FR</Sigla>
+			<sigla>FR</sigla>
 		</provincia>
 		<provincia>
 			<nome>Genova</nome>
-			<Sigla>GE</Sigla>
+			<sigla>GE</sigla>
 		</provincia>
 		<provincia>
 			<nome>Gorizia</nome>
-			<Sigla>GO</Sigla>
+			<sigla>GO</sigla>
 		</provincia>
 		<provincia>
 			<nome>Grosseto</nome>
-			<Sigla>GR</Sigla>
+			<sigla>GR</sigla>
 		</provincia>
 		<provincia>
 			<nome>Imperia</nome>
-			<Sigla>IM</Sigla>
+			<sigla>IM</sigla>
 		</provincia>
 		<provincia>
 			<nome>Isernia</nome>
-			<Sigla>IS</Sigla>
+			<sigla>IS</sigla>
 		</provincia>
 		<provincia>
 			<nome>L'Aquila</nome>
-			<Sigla>AQ</Sigla>
+			<sigla>AQ</sigla>
 		</provincia>
 		<provincia>
 			<nome>La Spezia</nome>
-			<Sigla>SP</Sigla>
+			<sigla>SP</sigla>
 		</provincia>
 		<provincia>
 			<nome>Latina</nome>
-			<Sigla>LT</Sigla>
+			<sigla>LT</sigla>
 		</provincia>
 		<provincia>
 			<nome>Lecce</nome>
-			<Sigla>LE</Sigla>
+			<sigla>LE</sigla>
 		</provincia>
 		<provincia>
 			<nome>Lecco</nome>
-			<Sigla>LC</Sigla>
+			<sigla>LC</sigla>
 		</provincia>
 		<provincia>
 			<nome>Livorno</nome>
-			<Sigla>LI</Sigla>
+			<sigla>LI</sigla>
 		</provincia>
 		<provincia>
 			<nome>Lodi</nome>
-			<Sigla>LO</Sigla>
+			<sigla>LO</sigla>
 		</provincia>
 		<provincia>
 			<nome>Lucca</nome>
-			<Sigla>LU</Sigla>
+			<sigla>LU</sigla>
 		</provincia>
 		<provincia>
 			<nome>Macerata</nome>
-			<Sigla>MC</Sigla>
+			<sigla>MC</sigla>
 		</provincia>
 		<provincia>
 			<nome>Mantova</nome>
-			<Sigla>MN</Sigla>
+			<sigla>MN</sigla>
 		</provincia>
 		<provincia>
 			<nome>Massa-Carrara</nome>
-			<Sigla>MS</Sigla>
+			<sigla>MS</sigla>
 		</provincia>
 		<provincia>
 			<nome>Matera</nome>
-			<Sigla>MT</Sigla>
+			<sigla>MT</sigla>
 		</provincia>
 		<provincia>
 			<nome>Medio Campidano</nome>
-			<Sigla>VS</Sigla>
+			<sigla>VS</sigla>
 		</provincia>
 		<provincia>
 			<nome>Messina</nome>
-			<Sigla>ME</Sigla>
+			<sigla>ME</sigla>
 		</provincia>
 		<provincia>
 			<nome>Milano</nome>
-			<Sigla>MI</Sigla>
+			<sigla>MI</sigla>
 		</provincia>
 		<provincia>
 			<nome>Modena</nome>
-			<Sigla>MO</Sigla>
+			<sigla>MO</sigla>
 		</provincia>
 		<provincia>
 			<nome>Monza e della Brianza</nome>
-			<Sigla>MB</Sigla>
+			<sigla>MB</sigla>
 		</provincia>
 		<provincia>
 			<nome>Napoli</nome>
-			<Sigla>NA</Sigla>
+			<sigla>NA</sigla>
 		</provincia>
 		<provincia>
 			<nome>Novara</nome>
-			<Sigla>NO</Sigla>
+			<sigla>NO</sigla>
 		</provincia>
 		<provincia>
 			<nome>Nuoro</nome>
-			<Sigla>NU</Sigla>
+			<sigla>NU</sigla>
 		</provincia>
 		<provincia>
 			<nome>Ogliastra</nome>
-			<Sigla>OG</Sigla>
+			<sigla>OG</sigla>
 		</provincia>
 		<provincia>
 			<nome>Olbia-Tempio</nome>
-			<Sigla>OT</Sigla>
+			<sigla>OT</sigla>
 		</provincia>
 		<provincia>
 			<nome>Oristano</nome>
-			<Sigla>OR</Sigla>
+			<sigla>OR</sigla>
 		</provincia>
 		<provincia>
 			<nome>Padova</nome>
-			<Sigla>PD</Sigla>
+			<sigla>PD</sigla>
 		</provincia>
 		<provincia>
 			<nome>Palermo</nome>
-			<Sigla>PA</Sigla>
+			<sigla>PA</sigla>
 		</provincia>
 		<provincia>
 			<nome>Parma</nome>
-			<Sigla>PR</Sigla>
+			<sigla>PR</sigla>
 		</provincia>
 		<provincia>
 			<nome>Pavia</nome>
-			<Sigla>PV</Sigla>
+			<sigla>PV</sigla>
 		</provincia>
 		<provincia>
 			<nome>Perugia</nome>
-			<Sigla>PG</Sigla>
+			<sigla>PG</sigla>
 		</provincia>
 		<provincia>
 			<nome>Pesaro e Urbino</nome>
-			<Sigla>PS</Sigla>
+			<sigla>PS</sigla>
 		</provincia>
 		<provincia>
 			<nome>Pescara</nome>
-			<Sigla>PE</Sigla>
+			<sigla>PE</sigla>
 		</provincia>
 		<provincia>
 			<nome>Piacenza</nome>
-			<Sigla>PC</Sigla>
+			<sigla>PC</sigla>
 		</provincia>
 		<provincia>
 			<nome>Pisa</nome>
-			<Sigla>PI</Sigla>
+			<sigla>PI</sigla>
 		</provincia>
 		<provincia>
 			<nome>Pistoia</nome>
-			<Sigla>PT</Sigla>
+			<sigla>PT</sigla>
 		</provincia>
 		<provincia>
 			<nome>Pordenone</nome>
-			<Sigla>PN</Sigla>
+			<sigla>PN</sigla>
 		</provincia>
 		<provincia>
 			<nome>Potenza</nome>
-			<Sigla>PZ</Sigla>
+			<sigla>PZ</sigla>
 		</provincia>
 		<provincia>
 			<nome>Prato</nome>
-			<Sigla>PO</Sigla>
+			<sigla>PO</sigla>
 		</provincia>
 		<provincia>
 			<nome>Ragusa</nome>
-			<Sigla>RG</Sigla>
+			<sigla>RG</sigla>
 		</provincia>
 		<provincia>
 			<nome>Ravenna</nome>
-			<Sigla>RA</Sigla>
+			<sigla>RA</sigla>
 		</provincia>
 		<provincia>
 			<nome>Reggio Calabria</nome>
-			<Sigla>RC</Sigla>
+			<sigla>RC</sigla>
 		</provincia>
 		<provincia>
 			<nome>Reggio Emilia</nome>
-			<Sigla>RE</Sigla>
+			<sigla>RE</sigla>
 		</provincia>
 		<provincia>
 			<nome>Rieti</nome>
-			<Sigla>RI</Sigla>
+			<sigla>RI</sigla>
 		</provincia>
 		<provincia>
 			<nome>Rimini</nome>
-			<Sigla>RN</Sigla>
+			<sigla>RN</sigla>
 		</provincia>
 		<provincia>
 			<nome>Roma</nome>
-			<Sigla>RM</Sigla>
+			<sigla>RM</sigla>
 		</provincia>
 		<provincia>
 			<nome>Rovigo</nome>
-			<Sigla>RO</Sigla>
+			<sigla>RO</sigla>
 		</provincia>
 		<provincia>
 			<nome>Salerno</nome>
-			<Sigla>SA</Sigla>
+			<sigla>SA</sigla>
 		</provincia>
 		<provincia>
 			<nome>Sassari</nome>
-			<Sigla>SS</Sigla>
+			<sigla>SS</sigla>
 		</provincia>
 		<provincia>
 			<nome>Savona</nome>
-			<Sigla>SV</Sigla>
+			<sigla>SV</sigla>
 		</provincia>
 		<provincia>
 			<nome>Siena</nome>
-			<Sigla>SI</Sigla>
+			<sigla>SI</sigla>
 		</provincia>
 		<provincia>
 			<nome>Siracusa</nome>
-			<Sigla>SR</Sigla>
+			<sigla>SR</sigla>
 		</provincia>
 		<provincia>
 			<nome>Sondrio</nome>
-			<Sigla>SO</Sigla>
+			<sigla>SO</sigla>
 		</provincia>
 		<provincia>
 			<nome>Taranto</nome>
-			<Sigla>TA</Sigla>
+			<sigla>TA</sigla>
 		</provincia>
 		<provincia>
 			<nome>Teramo</nome>
-			<Sigla>TE</Sigla>
+			<sigla>TE</sigla>
 		</provincia>
 		<provincia>
 			<nome>Terni</nome>
-			<Sigla>TR</Sigla>
+			<sigla>TR</sigla>
 		</provincia>
 		<provincia>
 			<nome>Torino</nome>
-			<Sigla>TO</Sigla>
+			<sigla>TO</sigla>
 		</provincia>
 		<provincia>
 			<nome>Trapani</nome>
-			<Sigla>TP</Sigla>
+			<sigla>TP</sigla>
 		</provincia>
 		<provincia>
 			<nome>Trento</nome>
-			<Sigla>TN</Sigla>
+			<sigla>TN</sigla>
 		</provincia>
 		<provincia>
 			<nome>Treviso</nome>
-			<Sigla>TV</Sigla>
+			<sigla>TV</sigla>
 		</provincia>
 		<provincia>
 			<nome>Trieste</nome>
-			<Sigla>TS</Sigla>
+			<sigla>TS</sigla>
 		</provincia>
 		<provincia>
 			<nome>Udine</nome>
-			<Sigla>UD</Sigla>
+			<sigla>UD</sigla>
 		</provincia>
 		<provincia>
 			<nome>Varese</nome>
-			<Sigla>VA</Sigla>
+			<sigla>VA</sigla>
 		</provincia>
 		<provincia>
 			<nome>Venezia</nome>
-			<Sigla>VE</Sigla>
+			<sigla>VE</sigla>
 		</provincia>
 		<provincia>
 			<nome>Verbano-Cusio-Ossola</nome>
-			<Sigla>VB</Sigla>
+			<sigla>VB</sigla>
 		</provincia>
 		<provincia>
 			<nome>Vercelli</nome>
-			<Sigla>VC</Sigla>
+			<sigla>VC</sigla>
 		</provincia>
 		<provincia>
 			<nome>Verona</nome>
-			<Sigla>VR</Sigla>
+			<sigla>VR</sigla>
 		</provincia>
 		<provincia>
 			<nome>Vibo Valentia</nome>
-			<Sigla>VV</Sigla>
+			<sigla>VV</sigla>
 		</provincia>
 		<provincia>
 			<nome>Vicenza</nome>
-			<Sigla>VI</Sigla>
+			<sigla>VI</sigla>
 		</provincia>
 		<provincia>
 			<nome>Viterbo</nome>

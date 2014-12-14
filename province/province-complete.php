@@ -10,547 +10,547 @@ $province =
 	        0 => 
 	        array (
 	          'nome' => 'Agrigento',
-	          'Sigla' => 'AG',
+	          'sigla' => 'AG',
 	        ),
 	        1 => 
 	        array (
 	          'nome' => 'Alessandria',
-	          'Sigla' => 'AL',
+	          'sigla' => 'AL',
 	        ),
 	        2 => 
 	        array (
 	          'nome' => 'Ancona',
-	          'Sigla' => 'AN',
+	          'sigla' => 'AN',
 	        ),
 	        3 => 
 	        array (
 	          'nome' => 'Aosta',
-	          'Sigla' => 'AO',
+	          'sigla' => 'AO',
 	        ),
 	        4 => 
 	        array (
 	          'nome' => 'Arezzo',
-	          'Sigla' => 'AR',
+	          'sigla' => 'AR',
 	        ),
 	        5 => 
 	        array (
 	          'nome' => 'Ascoli Piceno',
-	          'Sigla' => 'AP',
+	          'sigla' => 'AP',
 	        ),
 	        6 => 
 	        array (
 	          'nome' => 'Asti',
-	          'Sigla' => 'AT',
+	          'sigla' => 'AT',
 	        ),
 	        7 => 
 	        array (
 	          'nome' => 'Avellino',
-	          'Sigla' => 'AV',
+	          'sigla' => 'AV',
 	        ),
 	        8 => 
 	        array (
 	          'nome' => 'Bari',
-	          'Sigla' => 'BA',
+	          'sigla' => 'BA',
 	        ),
 	        9 => 
 	        array (
 	          'nome' => 'Barletta-Andria-Trani',
-	          'Sigla' => 'BT',
+	          'sigla' => 'BT',
 	        ),
 	        10 => 
 	        array (
 	          'nome' => 'Belluno',
-	          'Sigla' => 'BL',
+	          'sigla' => 'BL',
 	        ),
 	        11 => 
 	        array (
 	          'nome' => 'Benevento',
-	          'Sigla' => 'BN',
+	          'sigla' => 'BN',
 	        ),
 	        12 => 
 	        array (
 	          'nome' => 'Bergamo',
-	          'Sigla' => 'BG',
+	          'sigla' => 'BG',
 	        ),
 	        13 => 
 	        array (
 	          'nome' => 'Biella',
-	          'Sigla' => 'BI',
+	          'sigla' => 'BI',
 	        ),
 	        14 => 
 	        array (
 	          'nome' => 'Bologna',
-	          'Sigla' => 'BO',
+	          'sigla' => 'BO',
 	        ),
 	        15 => 
 	        array (
 	          'nome' => 'Bolzano',
-	          'Sigla' => 'BZ',
+	          'sigla' => 'BZ',
 	        ),
 	        16 => 
 	        array (
 	          'nome' => 'Brescia',
-	          'Sigla' => 'BS',
+	          'sigla' => 'BS',
 	        ),
 	        17 => 
 	        array (
 	          'nome' => 'Brindisi',
-	          'Sigla' => 'BR',
+	          'sigla' => 'BR',
 	        ),
 	        18 => 
 	        array (
 	          'nome' => 'Cagliari',
-	          'Sigla' => 'CA',
+	          'sigla' => 'CA',
 	        ),
 	        19 => 
 	        array (
 	          'nome' => 'Caltanissetta',
-	          'Sigla' => 'CL',
+	          'sigla' => 'CL',
 	        ),
 	        20 => 
 	        array (
 	          'nome' => 'Campobasso',
-	          'Sigla' => 'CB',
+	          'sigla' => 'CB',
 	        ),
 	        21 => 
 	        array (
 	          'nome' => 'Carbonia-Iglesias',
-	          'Sigla' => 'CI',
+	          'sigla' => 'CI',
 	        ),
 	        22 => 
 	        array (
 	          'nome' => 'Caserta',
-	          'Sigla' => 'CE',
+	          'sigla' => 'CE',
 	        ),
 	        23 => 
 	        array (
 	          'nome' => 'Catania',
-	          'Sigla' => 'CT',
+	          'sigla' => 'CT',
 	        ),
 	        24 => 
 	        array (
 	          'nome' => 'Catanzaro',
-	          'Sigla' => 'CZ',
+	          'sigla' => 'CZ',
 	        ),
 	        25 => 
 	        array (
 	          'nome' => 'Chieti',
-	          'Sigla' => 'CH',
+	          'sigla' => 'CH',
 	        ),
 	        26 => 
 	        array (
 	          'nome' => 'Como',
-	          'Sigla' => 'CO',
+	          'sigla' => 'CO',
 	        ),
 	        27 => 
 	        array (
 	          'nome' => 'Cosenza',
-	          'Sigla' => 'CS',
+	          'sigla' => 'CS',
 	        ),
 	        28 => 
 	        array (
 	          'nome' => 'Cremona',
-	          'Sigla' => 'CR',
+	          'sigla' => 'CR',
 	        ),
 	        29 => 
 	        array (
 	          'nome' => 'Crotone',
-	          'Sigla' => 'KR',
+	          'sigla' => 'KR',
 	        ),
 	        30 => 
 	        array (
 	          'nome' => 'Cuneo',
-	          'Sigla' => 'CN',
+	          'sigla' => 'CN',
 	        ),
 	        31 => 
 	        array (
 	          'nome' => 'Enna',
-	          'Sigla' => 'EN',
+	          'sigla' => 'EN',
 	        ),
 	        32 => 
 	        array (
 	          'nome' => 'Fermo',
-	          'Sigla' => 'FM',
+	          'sigla' => 'FM',
 	        ),
 	        33 => 
 	        array (
 	          'nome' => 'Ferrara',
-	          'Sigla' => 'FE',
+	          'sigla' => 'FE',
 	        ),
 	        34 => 
 	        array (
 	          'nome' => 'Firenze',
-	          'Sigla' => 'FI',
+	          'sigla' => 'FI',
 	        ),
 	        35 => 
 	        array (
 	          'nome' => 'Foggia',
-	          'Sigla' => 'FG',
+	          'sigla' => 'FG',
 	        ),
 	        36 => 
 	        array (
 	          'nome' => 'Forlì-Cesena',
-	          'Sigla' => 'FC',
+	          'sigla' => 'FC',
 	        ),
 	        37 => 
 	        array (
 	          'nome' => 'Frosinone',
-	          'Sigla' => 'FR',
+	          'sigla' => 'FR',
 	        ),
 	        38 => 
 	        array (
 	          'nome' => 'Genova',
-	          'Sigla' => 'GE',
+	          'sigla' => 'GE',
 	        ),
 	        39 => 
 	        array (
 	          'nome' => 'Gorizia',
-	          'Sigla' => 'GO',
+	          'sigla' => 'GO',
 	        ),
 	        40 => 
 	        array (
 	          'nome' => 'Grosseto',
-	          'Sigla' => 'GR',
+	          'sigla' => 'GR',
 	        ),
 	        41 => 
 	        array (
 	          'nome' => 'Imperia',
-	          'Sigla' => 'IM',
+	          'sigla' => 'IM',
 	        ),
 	        42 => 
 	        array (
 	          'nome' => 'Isernia',
-	          'Sigla' => 'IS',
+	          'sigla' => 'IS',
 	        ),
 	        43 => 
 	        array (
 	          'nome' => 'L\'Aquila',
-	          'Sigla' => 'AQ',
+	          'sigla' => 'AQ',
 	        ),
 	        44 => 
 	        array (
 	          'nome' => 'La Spezia',
-	          'Sigla' => 'SP',
+	          'sigla' => 'SP',
 	        ),
 	        45 => 
 	        array (
 	          'nome' => 'Latina',
-	          'Sigla' => 'LT',
+	          'sigla' => 'LT',
 	        ),
 	        46 => 
 	        array (
 	          'nome' => 'Lecce',
-	          'Sigla' => 'LE',
+	          'sigla' => 'LE',
 	        ),
 	        47 => 
 	        array (
 	          'nome' => 'Lecco',
-	          'Sigla' => 'LC',
+	          'sigla' => 'LC',
 	        ),
 	        48 => 
 	        array (
 	          'nome' => 'Livorno',
-	          'Sigla' => 'LI',
+	          'sigla' => 'LI',
 	        ),
 	        49 => 
 	        array (
 	          'nome' => 'Lodi',
-	          'Sigla' => 'LO',
+	          'sigla' => 'LO',
 	        ),
 	        50 => 
 	        array (
 	          'nome' => 'Lucca',
-	          'Sigla' => 'LU',
+	          'sigla' => 'LU',
 	        ),
 	        51 => 
 	        array (
 	          'nome' => 'Macerata',
-	          'Sigla' => 'MC',
+	          'sigla' => 'MC',
 	        ),
 	        52 => 
 	        array (
 	          'nome' => 'Mantova',
-	          'Sigla' => 'MN',
+	          'sigla' => 'MN',
 	        ),
 	        53 => 
 	        array (
 	          'nome' => 'Massa-Carrara',
-	          'Sigla' => 'MS',
+	          'sigla' => 'MS',
 	        ),
 	        54 => 
 	        array (
 	          'nome' => 'Matera',
-	          'Sigla' => 'MT',
+	          'sigla' => 'MT',
 	        ),
 	        55 => 
 	        array (
 	          'nome' => 'Medio Campidano',
-	          'Sigla' => 'VS',
+	          'sigla' => 'VS',
 	        ),
 	        56 => 
 	        array (
 	          'nome' => 'Messina',
-	          'Sigla' => 'ME',
+	          'sigla' => 'ME',
 	        ),
 	        57 => 
 	        array (
 	          'nome' => 'Milano',
-	          'Sigla' => 'MI',
+	          'sigla' => 'MI',
 	        ),
 	        58 => 
 	        array (
 	          'nome' => 'Modena',
-	          'Sigla' => 'MO',
+	          'sigla' => 'MO',
 	        ),
 	        59 => 
 	        array (
 	          'nome' => 'Monza e della Brianza',
-	          'Sigla' => 'MB',
+	          'sigla' => 'MB',
 	        ),
 	        60 => 
 	        array (
 	          'nome' => 'Napoli',
-	          'Sigla' => 'NA',
+	          'sigla' => 'NA',
 	        ),
 	        61 => 
 	        array (
 	          'nome' => 'Novara',
-	          'Sigla' => 'NO',
+	          'sigla' => 'NO',
 	        ),
 	        62 => 
 	        array (
 	          'nome' => 'Nuoro',
-	          'Sigla' => 'NU',
+	          'sigla' => 'NU',
 	        ),
 	        63 => 
 	        array (
 	          'nome' => 'Ogliastra',
-	          'Sigla' => 'OG',
+	          'sigla' => 'OG',
 	        ),
 	        64 => 
 	        array (
 	          'nome' => 'Olbia-Tempio',
-	          'Sigla' => 'OT',
+	          'sigla' => 'OT',
 	        ),
 	        65 => 
 	        array (
 	          'nome' => 'Oristano',
-	          'Sigla' => 'OR',
+	          'sigla' => 'OR',
 	        ),
 	        66 => 
 	        array (
 	          'nome' => 'Padova',
-	          'Sigla' => 'PD',
+	          'sigla' => 'PD',
 	        ),
 	        67 => 
 	        array (
 	          'nome' => 'Palermo',
-	          'Sigla' => 'PA',
+	          'sigla' => 'PA',
 	        ),
 	        68 => 
 	        array (
 	          'nome' => 'Parma',
-	          'Sigla' => 'PR',
+	          'sigla' => 'PR',
 	        ),
 	        69 => 
 	        array (
 	          'nome' => 'Pavia',
-	          'Sigla' => 'PV',
+	          'sigla' => 'PV',
 	        ),
 	        70 => 
 	        array (
 	          'nome' => 'Perugia',
-	          'Sigla' => 'PG',
+	          'sigla' => 'PG',
 	        ),
 	        71 => 
 	        array (
 	          'nome' => 'Pesaro e Urbino',
-	          'Sigla' => 'PS',
+	          'sigla' => 'PS',
 	        ),
 	        72 => 
 	        array (
 	          'nome' => 'Pescara',
-	          'Sigla' => 'PE',
+	          'sigla' => 'PE',
 	        ),
 	        73 => 
 	        array (
 	          'nome' => 'Piacenza',
-	          'Sigla' => 'PC',
+	          'sigla' => 'PC',
 	        ),
 	        74 => 
 	        array (
 	          'nome' => 'Pisa',
-	          'Sigla' => 'PI',
+	          'sigla' => 'PI',
 	        ),
 	        75 => 
 	        array (
 	          'nome' => 'Pistoia',
-	          'Sigla' => 'PT',
+	          'sigla' => 'PT',
 	        ),
 	        76 => 
 	        array (
 	          'nome' => 'Pordenone',
-	          'Sigla' => 'PN',
+	          'sigla' => 'PN',
 	        ),
 	        77 => 
 	        array (
 	          'nome' => 'Potenza',
-	          'Sigla' => 'PZ',
+	          'sigla' => 'PZ',
 	        ),
 	        78 => 
 	        array (
 	          'nome' => 'Prato',
-	          'Sigla' => 'PO',
+	          'sigla' => 'PO',
 	        ),
 	        79 => 
 	        array (
 	          'nome' => 'Ragusa',
-	          'Sigla' => 'RG',
+	          'sigla' => 'RG',
 	        ),
 	        80 => 
 	        array (
 	          'nome' => 'Ravenna',
-	          'Sigla' => 'RA',
+	          'sigla' => 'RA',
 	        ),
 	        81 => 
 	        array (
 	          'nome' => 'Reggio Calabria',
-	          'Sigla' => 'RC',
+	          'sigla' => 'RC',
 	        ),
 	        82 => 
 	        array (
 	          'nome' => 'Reggio Emilia',
-	          'Sigla' => 'RE',
+	          'sigla' => 'RE',
 	        ),
 	        83 => 
 	        array (
 	          'nome' => 'Rieti',
-	          'Sigla' => 'RI',
+	          'sigla' => 'RI',
 	        ),
 	        84 => 
 	        array (
 	          'nome' => 'Rimini',
-	          'Sigla' => 'RN',
+	          'sigla' => 'RN',
 	        ),
 	        85 => 
 	        array (
 	          'nome' => 'Roma',
-	          'Sigla' => 'RM',
+	          'sigla' => 'RM',
 	        ),
 	        86 => 
 	        array (
 	          'nome' => 'Rovigo',
-	          'Sigla' => 'RO',
+	          'sigla' => 'RO',
 	        ),
 	        87 => 
 	        array (
 	          'nome' => 'Salerno',
-	          'Sigla' => 'SA',
+	          'sigla' => 'SA',
 	        ),
 	        88 => 
 	        array (
 	          'nome' => 'Sassari',
-	          'Sigla' => 'SS',
+	          'sigla' => 'SS',
 	        ),
 	        89 => 
 	        array (
 	          'nome' => 'Savona',
-	          'Sigla' => 'SV',
+	          'sigla' => 'SV',
 	        ),
 	        90 => 
 	        array (
 	          'nome' => 'Siena',
-	          'Sigla' => 'SI',
+	          'sigla' => 'SI',
 	        ),
 	        91 => 
 	        array (
 	          'nome' => 'Siracusa',
-	          'Sigla' => 'SR',
+	          'sigla' => 'SR',
 	        ),
 	        92 => 
 	        array (
 	          'nome' => 'Sondrio',
-	          'Sigla' => 'SO',
+	          'sigla' => 'SO',
 	        ),
 	        93 => 
 	        array (
 	          'nome' => 'Taranto',
-	          'Sigla' => 'TA',
+	          'sigla' => 'TA',
 	        ),
 	        94 => 
 	        array (
 	          'nome' => 'Teramo',
-	          'Sigla' => 'TE',
+	          'sigla' => 'TE',
 	        ),
 	        95 => 
 	        array (
 	          'nome' => 'Terni',
-	          'Sigla' => 'TR',
+	          'sigla' => 'TR',
 	        ),
 	        96 => 
 	        array (
 	          'nome' => 'Torino',
-	          'Sigla' => 'TO',
+	          'sigla' => 'TO',
 	        ),
 	        97 => 
 	        array (
 	          'nome' => 'Trapani',
-	          'Sigla' => 'TP',
+	          'sigla' => 'TP',
 	        ),
 	        98 => 
 	        array (
 	          'nome' => 'Trento',
-	          'Sigla' => 'TN',
+	          'sigla' => 'TN',
 	        ),
 	        99 => 
 	        array (
 	          'nome' => 'Treviso',
-	          'Sigla' => 'TV',
+	          'sigla' => 'TV',
 	        ),
 	        100 => 
 	        array (
 	          'nome' => 'Trieste',
-	          'Sigla' => 'TS',
+	          'sigla' => 'TS',
 	        ),
 	        101 => 
 	        array (
 	          'nome' => 'Udine',
-	          'Sigla' => 'UD',
+	          'sigla' => 'UD',
 	        ),
 	        102 => 
 	        array (
 	          'nome' => 'Varese',
-	          'Sigla' => 'VA',
+	          'sigla' => 'VA',
 	        ),
 	        103 => 
 	        array (
 	          'nome' => 'Venezia',
-	          'Sigla' => 'VE',
+	          'sigla' => 'VE',
 	        ),
 	        104 => 
 	        array (
 	          'nome' => 'Verbano-Cusio-Ossola',
-	          'Sigla' => 'VB',
+	          'sigla' => 'VB',
 	        ),
 	        105 => 
 	        array (
 	          'nome' => 'Vercelli',
-	          'Sigla' => 'VC',
+	          'sigla' => 'VC',
 	        ),
 	        106 => 
 	        array (
 	          'nome' => 'Verona',
-	          'Sigla' => 'VR',
+	          'sigla' => 'VR',
 	        ),
 	        107 => 
 	        array (
 	          'nome' => 'Vibo Valentia',
-	          'Sigla' => 'VV',
+	          'sigla' => 'VV',
 	        ),
 	        108 => 
 	        array (
 	          'nome' => 'Vicenza',
-	          'Sigla' => 'VI',
+	          'sigla' => 'VI',
 	        ),
 	        109 => 
 	        array (
