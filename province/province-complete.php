@@ -262,7 +262,7 @@ $province =
         ),
         36 => 
         array (
-          'nome' => 'Forli'-Cesena',
+          'nome' => 'Forli\'-Cesena',
           'sigla' => 'FC',
           'lat' => '44.0356581',
           'lon' => '12.0514851',
@@ -311,7 +311,7 @@ $province =
         ),
         43 => 
         array (
-          'nome' => 'L'Aquila',
+          'nome' => 'L\'Aquila',
           'sigla' => 'AQ',
           'lat' => '42.1366831',
           'lon' => '13.6241138',
