@@ -2,7 +2,7 @@
 
 **AUTORE:** Giuseppe Sanfrancesco
 
-**VERSIONE:** 1.2
+**VERSIONE:** 1.3
 
 **DESCRIZIONE:** Raccolta aggiornata delle province e regioni d'Italia
 
