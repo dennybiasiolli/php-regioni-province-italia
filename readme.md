@@ -1,8 +1,9 @@
 # Italia #
 
 **AUTORE:** Giuseppe Sanfrancesco
+**COLLABORATORE:** Denny Biasiolli
 
-**VERSIONE:** 1.3
+**VERSIONE:** 1.3.1
 
 **DESCRIZIONE:** Raccolta aggiornata delle province e regioni d'Italia
 
